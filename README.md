@@ -1,6 +1,6 @@
 # PlayAngular Store Game 🎮
 ## Acesse a página:
-[![Home page](https://img.shields.io/badge/-Home%20page-000?style=for-the-badge&logo=photobucket&logoColor=white)](https://gdeusvid.github.io/homepage-storegame/)
+[![Home page](https://img.shields.io/badge/-Home%20page-000?style=for-the-badge&logo=shopee&logoColor=white)](https://gdeusvid.github.io/homepage-storegame/)
 
 # Storegame
 
