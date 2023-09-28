@@ -1,3 +1,7 @@
+# PlayAngular Store Game 🎮
+## Acesse a página:
+[![Home page](https://img.shields.io/badge/-Home%20page-000?style=for-the-badge&logo=photobucket&logoColor=white)](https://gdeusvid.github.io/homepage-storegame/)
+
 # Storegame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
